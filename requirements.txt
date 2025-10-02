@@ -1,0 +1,29 @@
+# 알고리즘 문제 풀이를 위한 필수 패키지들
+
+# 테스트 프레임워크
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# 코드 포맷팅 및 린팅
+black==23.9.1
+flake8==6.1.0
+isort==5.12.0
+
+# 타입 힌팅
+mypy==1.6.1
+
+# 성능 측정
+memory-profiler==0.61.0
+line-profiler==4.1.1
+
+# 데이터 구조 및 알고리즘 유틸리티
+numpy==1.25.2
+scipy==1.11.3
+
+# 시각화 (그래프, 트리 등)
+matplotlib==3.8.0
+networkx==3.2.1
+
+# 개발 도구
+ipython==8.16.1
+jupyter==1.0.0
